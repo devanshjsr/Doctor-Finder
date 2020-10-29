@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">DocAppoint</string>
+    <array name="city">
+        <item>Allahabad</item>
+        <item>Kanpur</item>
+        <item>Varanasi</item>
+    </array>
+    <array name="type">
+        <item>Surgeon</item>
+        <item>General Physician</item>
+        <item>Gynaecologist</item>
+        <item>Neurosurgeon</item>
+        <item>Orthopaedic</item>
+        <item>Dermatologist</item>
+    </array>
+
+</resources>
