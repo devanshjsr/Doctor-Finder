@@ -10,3 +10,6 @@ An Android App to find near by doctors with all details. Built using Firebase an
 ## Features
 1) Use of Firebase Authentication for secure login.
 2) Use of Firebase Realtime Database for providing most accurate information.
+
+## APK
+Get the latest version from [here](https://github.com/devanshjsr/Doctor-Finder/releases/tag/1.0)
